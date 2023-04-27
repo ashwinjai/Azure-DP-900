@@ -24,3 +24,10 @@ Cloud computing offers faster innovation, flexible resources and economies of sc
 :small_orange_diamond: Low latency : Serve users from the nearest region to them <br> 
 :small_orange_diamond: Global footprint <br> 
 :small_orange_diamond: Adhere to government regulation <br> 
+
+
+:small_blue_diamond:  **High Availability** — The major cloud providers (Azure, AWS, GCP) have multiple data centers spread around throughout the world. Data and code stored in the cloud are copied to more than one data center. If anything happens to one data center, the data can be recovered from another data center.  <br> 
+:small_blue_diamond: **Fault Tolerance** — In case there is any fault in the application or infrastructure, the service can continue to work by moving the work to other healthy servers.  <br> 
+:small_blue_diamond: **Disaster Discover** — The data in the cloud can also get copied to other regions e.g. copy data from West US to East US. If there is natural disaster happened in West US and every data center goes down, the data center in East US will still have the copy of data.  <br> 
+:small_blue_diamond: **Scalability** — The application running in the cloud can expand its size when there are more users in the system.  <br> 
+:small_blue_diamond: **Elasticity** — The application running in the cloud can shrink its size when there are fewer users in the system. The users can also set automatic shutdown during the non-business hours to save money.  <br> 
