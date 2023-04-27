@@ -32,3 +32,14 @@ Cloud computing offers faster innovation, flexible resources and economies of sc
 :small_blue_diamond: **Disaster Discover** — The data in the cloud can also get copied to other regions e.g. copy data from West US to East US. If there is natural disaster happened in West US and every data center goes down, the data center in East US will still have the copy of data.  <br> 
 :small_blue_diamond: **Scalability** — The application running in the cloud can expand its size when there are more users in the system.  <br> 
 :small_blue_diamond: **Elasticity** — The application running in the cloud can shrink its size when there are fewer users in the system. The users can also set automatic shutdown during the non-business hours to save money.  <br> 
+
+**Availability Zones**
+Availability zones consists of one or more discrete data center. Each availability has independent & redundant power, networking & connectivity. It should also be noted that availability zones in a region are connected through low-latency links.
+
+
+**Business benefits of cloud**
+
+
+
+
+
