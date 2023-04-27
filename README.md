@@ -33,11 +33,19 @@ Cloud computing offers faster innovation, flexible resources and economies of sc
 :small_blue_diamond: **Scalability** — The application running in the cloud can expand its size when there are more users in the system.  <br> 
 :small_blue_diamond: **Elasticity** — The application running in the cloud can shrink its size when there are fewer users in the system. The users can also set automatic shutdown during the non-business hours to save money.  <br> 
 
-**Availability Zones**  <br> 
+## Availability Zones**  <br> 
 Availability zones consists of one or more discrete data center. Each availability has independent & redundant power, networking & connectivity. It should also be noted that availability zones in a region are connected through low-latency links.
 
 
-**Business benefits of cloud**
+## Business benefits of cloud**  :cloud: 
+:small_blue_diamond: **Agility** - The machines in the cloud are ready for cloud users to fire when they need and power down when they are not required  <br> 
+
+:small_blue_diamond: **Economies of scale** — Cloud is a shared pool of machines and services. As the number of customer grows, the cloud providers can cut down the cost and at same time increase quality of the services  <br> 
+
+:small_blue_diamond: **Capital Expenditure (CapEx) vs Operational Expenditure (OpEx)** — Building a data center requires large capital investment for hardware as well as the facility. A data center will also require ongoing electricity and staffs cost for operation. By using cloud, the capital expenditure for building a data center is not required.  <br> 
+
+:small_blue_diamond: **Consumption-based model (pay-as-you-go)** — The cloud users only need to pay what they use.  <br> 
+
 
 
 
