@@ -33,7 +33,7 @@ Cloud computing offers faster innovation, flexible resources and economies of sc
 :small_blue_diamond: **Scalability** — The application running in the cloud can expand its size when there are more users in the system.  <br> 
 :small_blue_diamond: **Elasticity** — The application running in the cloud can shrink its size when there are fewer users in the system. The users can also set automatic shutdown during the non-business hours to save money.  <br> 
 
-## Availability Zones  <br> 
+## Availability Zones :cloud: 
 Availability zones consists of one or more discrete data center. Each availability has independent & redundant power, networking & connectivity. It should also be noted that availability zones in a region are connected through low-latency links.
 
 
@@ -45,6 +45,28 @@ Availability zones consists of one or more discrete data center. Each availabili
 :small_blue_diamond: **Capital Expenditure (CapEx) vs Operational Expenditure (OpEx)** — Building a data center requires large capital investment for hardware as well as the facility. A data center will also require ongoing electricity and staffs cost for operation. By using cloud, the capital expenditure for building a data center is not required.  <br> 
 
 :small_blue_diamond: **Consumption-based model (pay-as-you-go)** — The cloud users only need to pay what they use.  <br> 
+
+
+## Types of Cloud Service Offering  :cloud: 
+
+:large_blue_diamond: **IaaS (Infrastructure as a service)** - In this offering, cloud user will only use Infrastructure from cloud provider will be responsible for 
+Virtualization, Hardware & Networking while cloud user will be responsible for os Upgrades and Patches, Database Software and Upgrades, Database Configuration( Table, 
+Indexes, Views etc),Data, Scaling of Compute& Storage, Availability and Durability. <br> 
+
+:large_blue_diamond: **PaaS (Platform as a service)** In this offering as compared to above Cloud provider is responsible for Virtualization, Hardware & Networking,
+ Database Software and Upgrades,Scaling,Availability and Durability. Cloud User Will be responsible for Database Configuration( Table, 
+Indexes, Views etc),Data. Example Azure SQL Database, Azure Cosmos DB etc.  <br> 
+
+:large_blue_diamond: **SaaS (Software as a service)** In this offering cloud provider will be responsible for OS (Inc Upgrades & Patches), Application Runtime, Auto Scaling, Availability and Load balancing, Application code & Configuration. Cloud User will be responsible for Configuring the Software. <br> 
+
+## Cloud Models  :cloud: 
+
+:small_blue_diamond: **Public cloud** Public cloud is cloud computing that’s delivered via the internet and shared across organizations. <br> 
+
+:small_blue_diamond: **Private cloud** Private cloud is cloud computing that is dedicated solely to your organization. <br> 
+
+:small_blue_diamond: **Hybrid cloud** Hybrid cloud is an environment that uses both public and private clouds.. <br> 
+
 
 
 
