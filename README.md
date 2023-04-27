@@ -2,14 +2,14 @@
 
 ## Cloud Computing :cloud: 
 It is the delivery of computing services over the internet. The services include are as follows
-:zap:Server <br> 
-:zap:storage <br> 
-:zap:database <br> 
-:zap:networking <br> 
-:zap:software <br> 
-:zap:analytics <br> 
-:zap:intelligence <br> 
-Cloud computing offers faster innovation, flexible resources and economies of scales. 
+:zap:Server  <br> 
+:zap:storage  <br> 
+:zap:database  <br> 
+:zap:networking  <br> 
+:zap:software  <br> 
+:zap:analytics  <br> 
+:zap:intelligence  <br> 
+Cloud computing offers faster innovation, flexible resources and economies of scales.  <br>  
 
 
 
