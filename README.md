@@ -14,7 +14,7 @@ Cloud computing offers faster innovation, flexible resources and economies of sc
 
 
 
-## Cloud Advantages
+## Benefits of Cloud  :cloud: 
 :small_orange_diamond: Trade “capital expense” for “variable expense”  <br> 
 :small_orange_diamond: Benefit from massive economies of scale  <br> 
 :small_orange_diamond: Stop guessing capacity  <br> 
@@ -25,6 +25,7 @@ Cloud computing offers faster innovation, flexible resources and economies of sc
 :small_orange_diamond: Global footprint <br> 
 :small_orange_diamond: Adhere to government regulation <br> 
 
+## Cloud Advantages
 
 :small_blue_diamond:  **High Availability** — The major cloud providers (Azure, AWS, GCP) have multiple data centers spread around throughout the world. Data and code stored in the cloud are copied to more than one data center. If anything happens to one data center, the data can be recovered from another data center.  <br> 
 :small_blue_diamond: **Fault Tolerance** — In case there is any fault in the application or infrastructure, the service can continue to work by moving the work to other healthy servers.  <br> 
