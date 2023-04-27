@@ -1,7 +1,7 @@
 # Azure-DP-900
 
 ## Cloud Computing :cloud: 
-It is the delivery of computing services over the internet. The services include are as follows
+It is the delivery of computing services over the internet. The services include are as follows  <br> 
 :zap:Server  <br> 
 :zap:storage  <br> 
 :zap:database  <br> 
