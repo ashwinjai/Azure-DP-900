@@ -77,10 +77,20 @@ Indexes, Views etc),Data. Example Azure SQL Database, Azure Cosmos DB etc.  <br>
 
 ## Data Formats 
 There are generally 3 types of Data Structure, which as follows below
-1. **Structured Data**
+1. **Structured Data** <br> 
       -Tables <br> 
        - Rows and Columns (Relational Table) <br> 
          - Example(mysql, mssql server) <br> 
+2. **Semi-Structured Data** <br> 
+      -Key-Value <br> 
+       - Document(JSON) <br> 
+        - Graph  <br> 
+         - Example(Mongodb) <br> 
+ 3. 2. **UnStructured Data** <br> 
+      -Video <br> 
+       - Audio <br> 
+        - Image  <br> 
+         - Text & Binary Files) <br> 
 
 
 
