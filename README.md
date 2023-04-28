@@ -75,6 +75,12 @@ Indexes, Views etc),Data. Example Azure SQL Database, Azure Cosmos DB etc.  <br>
 
 :small_blue_diamond: **Spot Pricing** - Azure lets you buy unused computing power at a discount of up to 90% compared to pay-as-you-go prices. However, Spot instances can be interrupted on short notice, so they are considered to be suitable only for workloads that can tolerate disruptions. Azure provides Virtual Machine Scale Sets (VMSS), an autoscaling mechanism that lets you manage groups of VMs and add spot instances automatically according to predefined policies.
 
+## Data Formats 
+There are generally 3 types of Data Structure, which as follows below
+1. **Structured Data**
+      -Tables <br> 
+       - Rows and Columns (Relational Table) <br> 
+         - Example(mysql, mssql server)
 
 
 
