@@ -112,8 +112,18 @@ Consumption based mode in cloud is relatively a new approach to add economical &
 *It should be noted that PaaS & IaaS often use consumption pricing to maintain cost advantage and profitability* <br>
 
 
+## Azure Core architecture & Services :heavy_plus_sign:
 
+1. **Regional** - When you deploy the resource in the cloud, you were asked on which region to deploy the resources. In simple term, Region is a geographical location that contain atleast one or multiple datacenter that are nearby and grouped together with a low-latency network. <br>
+2. **Regional Pairs** - In an unpredicted event like natural disasters, civil unrest, power outages, or physical network outages the services can be interrupted. Therefore in order to reduce the likeihood of the distuptions, Most azure region are paired with another region within the same geography ((such as the US, Europe, or Asia) at least 300 miles away, this method allow for the replication of the resources across geography. Examples of region pairs in Azure are West US paired
+with East US and South-East Asia paired with East Asia. Because the pair of regions are directly connected and far enough apart to be isolated from regional disasters,
+you can use them to provide reliable services and data redundancy  <br>
+3. **Sovereign regions** - Sovereign regions are instances of azure that are isolated from the main instance of Azure. Sovereign regions are used for compliance or legal purposes. Example US DoD Central, US Gov Virginia,China East, China North  <br> 
 
+## Azure Resources & the Resources group :link:
+
+1. **Resource** - Resource is the basic building block of Azure. Anything you create, provision, deploy etc is the resource. VMs, Virtual networks, databases, cognitive services are all considered resources within Azure.  <br> 
+2. **Resource Group** - Resource Group is like a shopping cart made of different item & grouped together. It simply means grouping of resources. When you create a resource, you’re required to place it into a resource group. A resource group can be single resources or multiple resources. A point to be noted, a resource group cannot be nested into another resource group eg. group A cannot be placed inside group B. <br> 
 
 
 
