@@ -140,8 +140,11 @@ you can use them to provide reliable services and data redundancy  <br>
 :small_blue_diamond: - Block Storage(Azure Disk), File Storage(Azure Files), Object Storage(Azure Blob Storage)  <br>
 
 
+## Azure SQL Database- Purchase Model 
 
-
+**VCore-based**
+-Choose between provisioned or serverless compute
+-
 
 
 
