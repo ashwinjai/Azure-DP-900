@@ -67,9 +67,17 @@ Indexes, Views etc),Data. Example Azure SQL Database, Azure Cosmos DB etc.  <br>
 
 :small_blue_diamond: **Hybrid cloud** Hybrid cloud is an environment that uses both public and private clouds.. <br> 
 
-## Cloud Pricing Models  :cloud: 
+## Cloud Pricing  :cloud: 
 
-:small_blue_diamond: **Pay as you go** -  User can pay for the services on Azure acco
+:small_blue_diamond: **Pay as you go** -  User can pay for the services on Azure according to actual usage, billed per second, with no long-term commitment or upfront payments. This provides complete flexibility to increase or decrease resources as needed. Azure virtual machines (VMs) can be automatically scaled up and down using Azure's autoscaling features. 
+
+:small_blue_diamond: **Reserved Instance** - Azure provides Reserved Virtual Machine Instances (RVMI) - Virtual machines that are pre-purchased for one or three years in a specific region. Committing to reserved instances in advance grant a discount of up to 72% compared to pay-as-you-go prices. Azure provides the option to replace reserved instances with others during the commitment term. It also allows users to cancel reserved instances before the end of the term, but this incurs an early termination fee.
+
+:small_blue_diamond: **Spot Pricing** - Azure lets you buy unused computing power at a discount of up to 90% compared to pay-as-you-go prices. However, Spot instances can be interrupted on short notice, so they are considered to be suitable only for workloads that can tolerate disruptions. Azure provides Virtual Machine Scale Sets (VMSS), an autoscaling mechanism that lets you manage groups of VMs and add spot instances automatically according to predefined policies.
+
+
+
+
 
 
 
