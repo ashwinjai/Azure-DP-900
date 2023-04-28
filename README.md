@@ -125,7 +125,19 @@ you can use them to provide reliable services and data redundancy  <br>
 1. **Resource** - Resource is the basic building block of Azure. Anything you create, provision, deploy etc is the resource. VMs, Virtual networks, databases, cognitive services are all considered resources within Azure.  <br> 
 2. **Resource Group** - Resource Group is like a shopping cart made of different item & grouped together. It simply means grouping of resources. When you create a resource, you’re required to place it into a resource group. A resource group can be single resources or multiple resources. A point to be noted, a resource group cannot be nested into another resource group eg. group A cannot be placed inside group B. <br> 
 
+## Relational Database 
+:small_blue_diamond: - Relational Database consistes of two types, OLTP (Online Transaction processing system ) and OLAP ( Online analytical processing) <br> 
+:small_blue_diamond: - Example of OLTP databases is SQL Database, Azure Postgresql, Example of OLAP databases is Synapse analytics <br> 
+:small_blue_diamond: - OLTP db use row storage which is efficient for processing small transactions whereas OLAP use columnar storage which executes single queries across mulltiple nodes helps in executing efficently complex queries. <br> 
 
+## Semi Structured Data
+:small_blue_diamond: - Data has some structure but uniformed. Semi-Structured data is stored in NoSQL databases & it has flexible schema.  <br> 
+:small_blue_diamond: - Azure cosmos DB is preferred services for Semi Structured data.  <br> 
+:small_blue_diamond: - Services for semi structure are as follows Document(Azure Cosmos DB SQL API & MondoDB API), Key- Value(Azure Cosmos DB Table API, Azure Table storage), Graph (Azure Cosmos DB Gremlin API), Column Family( Azure Cosmos DB Cassandra API)  <br> 
+
+## Un-Structured Data
+:small_blue_diamond: - Unstructured data doesn't have any structure like Audiofile, Videofile, Binary files  <br>
+:small_blue_diamond: - Block Storage(Azure Disk), File Storage(Azure Files), Object Storage(Azure Blob Storage)  <br>
 
 
 
