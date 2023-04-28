@@ -86,7 +86,7 @@ There are generally 3 types of Data Structure, which as follows below
        - Document(JSON) <br> 
         - Graph  <br> 
          - Example(Mongodb) <br> 
- 3. 2. **UnStructured Data** <br> 
+ 3. **UnStructured Data** <br> 
       -Video <br> 
        - Audio <br> 
         - Image  <br> 
