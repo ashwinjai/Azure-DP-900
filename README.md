@@ -84,3 +84,5 @@ Indexes, Views etc),Data. Example Azure SQL Database, Azure Cosmos DB etc.  <br>
 
 
 
+
+
