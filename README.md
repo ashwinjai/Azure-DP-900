@@ -92,6 +92,9 @@ There are generally 3 types of Data Structure, which as follows below
         - Image  <br> 
          - Text & Binary Files) <br> 
 
+**Depending on the data structure, the data is stored in Relational database, NoSql database, Analytical database, Object/Block/File Storage** <br> 
+
+ 
 
 
 
