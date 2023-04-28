@@ -67,8 +67,9 @@ Indexes, Views etc),Data. Example Azure SQL Database, Azure Cosmos DB etc.  <br>
 
 :small_blue_diamond: **Hybrid cloud** Hybrid cloud is an environment that uses both public and private clouds.. <br> 
 
+## Cloud Pricing Models  :cloud: 
 
-
+:small_blue_diamond: **Pay as you go** -  User can pay for the services on Azure acco
 
 
 
