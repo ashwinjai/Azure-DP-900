@@ -80,7 +80,7 @@ There are generally 3 types of Data Structure, which as follows below
 1. **Structured Data**
       -Tables <br> 
        - Rows and Columns (Relational Table) <br> 
-         - Example(mysql, mssql server)
+         - Example(mysql, mssql server) <br> 
 
 
 
