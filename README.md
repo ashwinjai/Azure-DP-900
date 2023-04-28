@@ -94,7 +94,39 @@ There are generally 3 types of Data Structure, which as follows below
 
 **Depending on the data structure, the data is stored in Relational database, NoSql database, Analytical database, Object/Block/File Storage** <br> 
 
- 
+**shared responsibility model** :on:
+
+All the CSPs (Amazon web services(AWS),Microsoft Azure, Google Cloud Platform (GCP)) adhere and applies the shared responsibility model. The responsibility of the CSPs is to monitor and respond to the security threat related to the cloud itself and an underlying infrastructure. At the same time, Cloud User are supposed to protect the data and guard the asserts stored in the Cloud. <br>
+
+Technically, The Shared Responsibility Model is a security and compliance framework that outlines the responsibilities of cloud service providers (CSPs) and customers for securing every aspect of the cloud environment, including hardware, infrastructure, endpoints, data, configurations, settings, operating system (OS), network
+controls and access rights. <br>
+
+
+**consumption-based mode** :chart:
+
+Consumption based mode in cloud is relatively a new approach to add economical & cost visibility to the Users. We oftenly see this mode in Electical & Utility billing system. The CSPs track & monitor the resources utilized and bills them & most common term used by CSPs are as below <br>
+-pay-as-you-go billing <br>
+-metered billing <br>
+-usage-based pricing <br>
+
+*It should be noted that PaaS & IaaS often use consumption pricing to maintain cost advantage and profitability* <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
