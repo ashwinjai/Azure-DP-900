@@ -143,8 +143,25 @@ you can use them to provide reliable services and data redundancy  <br>
 ## Azure SQL Database- Purchase Model 
 
 **VCore-based**
--Choose between provisioned or serverless compute
--
+-Choose between provisioned or serverless compute <br>
+- Higher compute, memory, I/O and storage limits <br>
+- Supports BYOL <br>
+- Serverless compute Database is paused during inactive periods (You'll be billed for storage during inactive periods) <br>
+
+**DTU-based**
+-Bundled compute and storage packages <br>
+-Assign DTUs(relative-Double Resources) <br>
+-Recommended for small and medium size db <br>
+
+**Azure SQL Managed Instance**
+-It is Fully Managed Service for MS-SQL & has hundred percent compatibility for SQL-Server <br>
+- Azure sql managed instance is recommended when migrating on premise SQL Server to Azure <br>
+-Avaialble with Vcore purchase model  <br>
+
+*It should be noted that Azure SQL Database doesn't have Cross-database Queries,transaction within SQL Server Instance, Database Mail & SQL Agent & Native Virtual Network support* <br>
+
+*SSAS, SSRS, Polybase are not supported in both SQL Database & SQL Managed Instance* <br>
+
 
 
 
