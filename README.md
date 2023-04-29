@@ -153,7 +153,9 @@ you can use them to provide reliable services and data redundancy  <br>
 -Assign DTUs(relative-Double Resources) <br>
 -Recommended for small and medium size db <br>
 
-**Azure SQL Managed Instance**
+
+## Azure SQL Managed Instance
+
 -It is Fully Managed Service for MS-SQL & has hundred percent compatibility for SQL-Server <br>
 - Azure sql managed instance is recommended when migrating on premise SQL Server to Azure <br>
 -Avaialble with Vcore purchase model  <br>
@@ -162,9 +164,38 @@ you can use them to provide reliable services and data redundancy  <br>
 
 *SSAS, SSRS, Polybase are not supported in both SQL Database & SQL Managed Instance* <br>
 
+## Azure Cosmos DB
+- It's Fully Managed NoSQL Database Service <br>
+- It Automatically replicates data across multiple Azure region <br>
+- It has feature of automatic scaling, Serverless compute & storage, multi-region write <br>
+- Data can be transferred to any region of choice <br>
+- On Azure Portal, Click on Azure Cosmos DB, Databases, Container <br>
 
+## Azure Cosmos DB- Logical and Physical Partitions
+- Each container is horizontally partitioned in an Azure region & it's is distributed to all Azure region associated with the Cosmos DB account <br>
+- Items in a container is divided into logical partitions based on Partition Key <br>
+- Cosmos DB take care of Categorizing logical partitions into physical partitions <br>
 
+## Azure Storage
+Below are list of Core Storage Services: <br>
+1. **Azure Disks** -  Block Storage(hard disks) for Azure VMs <br>
+2. **Azure Files** - File Share for Cloud and On-Premises  <br>
+3. **Azure Blobs** - Object store for text and binary data  <br>
+4. **Azure Queues** - Decouple application using messaging  <br>
+5. **Azure Tables** - NoSQL store  <br>
 
+*Except Azure Disk, all the remaining services require storage account*  <br>
+
+## Data Redundancy Options within Azure Storage 
+1. **LRS (Locally redundant storage)** - It is least expensive and three synchronous copies in same datacenter  <br>
+2. **ZRS (Zone-redundant storage)**  - Three synchronous copies in three AZs in the primary region  <br> 
+3. **GRS (Geo-redundant storage)** - LRS + Asynchronous copy to secondary region(three more copies using LRS) <br>
+4. **GRS (Geo-Zone-redundant storage)** - ZRS + Asynchronous copy to secondary region(three more copies using LRS) <br>
+
+## Categories within Data Analysis 
+1. **Descriptive Analytics** - What's happening ?, based on historical/Current Data, monitor status (of KPIs) and generate alert ex: Generate report <br>
+2. **Diagnostic Analytics** - Why is something happening ?, Take finding from descriptive analytics and dig deeper ex: why did sales dip last month ? <br>
+3. **Predictive Analytics** - What will happen ?, Predict probability based on historical data, mitigate risk & identify opportiunities Ex: Forecast demand sales <br>
 
 
 
